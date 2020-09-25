@@ -1,4 +1,4 @@
-# detr_tutorial
+# Training DETR on Custom Dataset
 Code based on [Detection Transformer](https://github.com/facebookresearch/detr)
 
 ## Step 1.
