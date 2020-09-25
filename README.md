@@ -1,5 +1,5 @@
 # Training DETR on Custom Dataset
-Code based on [Detection Transformer](https://github.com/facebookresearch/detr)
+Code based on [End-to-end Object Detection with Transformer](https://github.com/facebookresearch/detr)
 
 ## Step 1.
 Download wider face dataset [link](http://shuoyang1213.me/WIDERFACE/) and unzip the files in dataset folder
